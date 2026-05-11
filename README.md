@@ -101,13 +101,13 @@ Tools & Platforms
 ✅ Android Studio / VS Code
 
 
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Haninhafez&show_icons=true&theme=tokyonight&hide_border=true" alt="Hanin's GitHub stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haninhafez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <h2 align="left">📬 Get In Touch</h2>
 <p align="left">
