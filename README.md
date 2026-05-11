@@ -1,129 +1,130 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+```md
+<h1 align="center">Hey 👋, I'm Hanin Abdelhafez</h1>
+<h3 align="center">Flutter Developer | Cross-Platform Mobile App Developer 💙</h3>
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="linkedin" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat" alt="email" />
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+---
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👩‍💻 About Me
+
+- 💙 Flutter Developer passionate about building modern mobile apps
+- 🌱 Currently learning advanced **Flutter & Clean Architecture**
+- 🧠 Working with **Bloc, Cubit, Provider, MVVM**
+- 🔥 Interested in **Mobile App Development & UI/UX**
+- 🎯 Goal: Become a professional Flutter Developer
+- 💬 Ask me about **Flutter, Dart, API Integration, Firebase**
+- 📫 Reach me at: **YOUR_EMAIL**
+- ⚡ Fun fact: I turn coffee ☕ into Flutter apps
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
+<h2 align="left">🛠 Tech Stack</h2>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br>Flutter
     </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      <br>Dart
     </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
     </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+---
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<h2 align="left">📊 GitHub Stats</h2>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+- 📱 E-Commerce Flutter App
+- ☕ Caffina Coffee App UI/UX
+- 📝 Notes App with Firebase
+- 🎵 Music Player App
+- 🌦 Weather App using API
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  💙 Thanks for visiting my profile 💙
+</p>
 ```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
