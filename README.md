@@ -37,13 +37,13 @@ Languages, frameworks, and tools I love working with.
   <tr>
     <td align="center" width="96">
       <a href="#hanin-tech">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="48" height="48" alt="Flutter" />
+       <img src="./flutter.jfif" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#hanin-tech">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="48" height="48" alt="Dart" />
+       <img src="./dart.jfif" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
