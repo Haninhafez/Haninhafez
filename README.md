@@ -1,4 +1,4 @@
-<h1 align="left" id="hanin-title">👋 Hi, I'm Hanin Elhafez</h1>
+<h1 align="left" id="hanin-title">👋 Hi, I'm Hanin Abdelhafez</h1>
 <h3 align="left">Flutter Developer · Mobile Enthusiast · Software Development Student</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/hanin-abdelhafez-b69257302">
